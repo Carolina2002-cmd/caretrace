@@ -1,0 +1,21 @@
+provider_id,provider_specialty,n_months,baseline_diag_share,latest_diag_share,max_abs_z,provider_drift_flag
+P-DER-02,Dermatology,7,0.411,1.0,7.02,True
+P-PRI-06,Primary Care,7,0.311,0.0,6.76,True
+P-PHY-17,Physical Therapy,8,0.194,1.0,4.64,True
+P-DER-12,Dermatology,11,0.546,0.0,4.04,True
+P-ORT-14,Orthopedics,9,0.541,1.0,4.04,True
+P-NEU-25,Neurology,7,0.556,0.0,4.0,False
+P-PHY-12,Physical Therapy,10,0.496,0.0,3.85,True
+P-PUL-09,Pulmonology,6,0.627,1.0,3.32,False
+P-PUL-05,Pulmonology,9,0.433,1.0,2.72,True
+P-NEU-04,Neurology,9,0.516,0.5,2.7,True
+P-END-08,Endocrinology,8,0.508,0.5,2.48,True
+P-RHE-10,Rheumatology,8,0.19,0.5,2.45,True
+P-GEN-25,General Surgery,6,0.248,0.0,2.4,True
+P-PUL-25,Pulmonology,9,0.267,1.0,2.4,True
+P-NEU-22,Neurology,7,0.667,0.0,2.31,False
+P-PUL-10,Pulmonology,9,0.667,0.333,2.0,False
+P-PRI-10,Primary Care,8,0.333,1.0,2.0,True
+P-DER-05,Dermatology,9,0.539,1.0,1.82,False
+P-PHY-05,Physical Therapy,7,0.298,0.0,1.76,False
+P-PSY-24,Psychiatry,6,0.611,1.0,1.12,False
